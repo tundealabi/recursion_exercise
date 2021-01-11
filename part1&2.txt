@@ -41,7 +41,7 @@ function logAtMost10(n) {
         console.log(i);
     }
 }
- Time ==> O(1)
+ Time ==> O(n)
  Space ==>O(1)
 
 // 3. 
